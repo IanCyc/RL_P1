@@ -7,4 +7,4 @@
 4. $ git clone https://github.com/IanCyc/RL_P1.git
 6. $ cd reinforcement_learning_p1
 7. $ pip install -r requirements.txt
-8. testing: python example.py
+8. run: $ python example.py
