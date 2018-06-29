@@ -1,3 +1,5 @@
+This is the original version and solution, which was rewritten in branch master.
+
 # 九章算法 - 强化学习 - 实战项目1  
 
 ## 安装过程
